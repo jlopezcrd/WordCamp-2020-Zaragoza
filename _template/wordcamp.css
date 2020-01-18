@@ -1,0 +1,16 @@
+#mic {
+    position: sticky;
+    font-size: 2em;
+    bottom: 2%;
+    left: 0%;
+    color: #bb1313;
+    z-index: 10000;
+    margin-left: 2%;
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 100%;
+    padding: 20px;
+    cursor: pointer;
+}
